@@ -1,0 +1,16 @@
+.navbar-nav>li>a {
+    text-align: center;
+    background-color: #b3b4ae;
+    color: #ffffff;
+}
+
+.mainText {
+    background-color: #b3b4ae;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+.mainTextTitle {
+    font-weight: 600;
+    font-size: 25px;
+}
