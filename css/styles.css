@@ -14,3 +14,13 @@
     font-weight: 600;
     font-size: 25px;
 }
+.row-2 {
+    margin: 20px;
+    margin-bottom: 50px;
+}
+
+@media (max-width: 991px) {
+    .row-2 {
+        margin: 20px 80px 0 80px;
+    }
+  }
